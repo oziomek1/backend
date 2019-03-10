@@ -1,0 +1,8 @@
+DEBUG = True
+ENV = 'instance'
+SERVER_NAME = 'localhost:5000'
+
+UI_DOC_EXPANSION = 'list'
+RESTPLUS_VALIDATE = True
+RESTPLUS_MASK_SWAGGER = False
+ERROR_404_HELP = False
