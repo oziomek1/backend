@@ -9,3 +9,6 @@ Or
 
 * go to main directory `.`
 * pass `python run.py`
+
+###Example
+<img src="/misc/image1.png"/>
