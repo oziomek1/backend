@@ -1,5 +1,7 @@
 ## Backend Flask with flask-restplus and swagger.io
 
+### App runs using Docker
+
 To run in console without docker:
 
 * go to `./backend/` directory
